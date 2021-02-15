@@ -1,7 +1,7 @@
 # TrainingProgramming
 Ресурсы для тренировки навыков программирования
 
-# Некоторые для C++
+# Сайты для C++
 https://ravesli.com/category/zadaniya-po-s/
 
 https://purecodecpp.com/archives/433
@@ -9,7 +9,7 @@ https://purecodecpp.com/archives/433
 http://cppstudio.com/cat/285/
 
 
-# Другие
+# Сайты для разных языков
 http://codeforces.com/
 
 https://geekbrains.ru/posts/resources_for_programming_practice
