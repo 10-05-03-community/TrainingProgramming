@@ -13,3 +13,7 @@ http://cppstudio.com/cat/285/
 http://codeforces.com/
 
 https://geekbrains.ru/posts/resources_for_programming_practice
+
+# Книги по C++
+- Язык программирования C++. Лекции и упражнения | Прата Стивен
+- ...
