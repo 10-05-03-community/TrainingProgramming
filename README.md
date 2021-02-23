@@ -22,3 +22,7 @@
 
 # Курсы по C++
 - https://stepik.org/course/7
+
+# ИБ
+- https://tproger.ru/translations/23-hacking-sites-for-practice/
+- https://ipiskunov.blogspot.com/p/blog-page_68.html?m=1
